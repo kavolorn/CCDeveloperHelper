@@ -1,0 +1,15 @@
+{
+  "name": "ccdeveloperhelper",
+  "version": "0.1.0",
+  "description": "Helper extension for CC development.",
+  "author": "Alexey Kornilov <alexey.kornilov@kavolorn.ru>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "async": "^1.2.1",
+    "bootstrap": "^3.3.5",
+    "bootswatch": "^3.3.5",
+    "faye-websocket": "^0.9.4",
+    "jquery": "^2.1.4",
+    "react": "^0.13.3"
+  }
+}
